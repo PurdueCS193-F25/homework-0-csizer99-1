@@ -14,11 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - I like how small the classes are, so that we are able to get more individualized attention with any problems that may arise, whether that be in this class or another.
 
 
-
-
-Syntax highlighted code block
-
-
 # Header 1
 ## Header 2
 ### Header 3
