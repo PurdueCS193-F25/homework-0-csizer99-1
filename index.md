@@ -10,11 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Callum's First CS193 Homework
 - I like how CS193 is run by undergraduate students who have already been through some of the struggles we are facing, and are then able to help us by sharing what helped them through it.
-- 
+- I really like how this course goes over useful information and skills that we will need to know for future CS classes, without the pressure of having to learn it in a future class.
+- I like how small the classes are, so that we are able to get more individualized attention with any problems that may arise, whether that be in this class or another.
 
 
 
-```markdown
+
 Syntax highlighted code block
 
 
